@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Taringa Plus!
 [![CircleCI](https://circleci.com/gh/K-Eo/taringa-plus.svg?style=svg)](https://circleci.com/gh/K-Eo/taringa-plus)
 
@@ -2230,3 +2231,7 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+=======
+# github-react
+Probar como configurar un proyecto con github-travis-heroku
+>>>>>>> e413efd143c1f2a52c80d5201622804505d95f44
