@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Taringa Plus!
 [![CircleCI](https://circleci.com/gh/K-Eo/taringa-plus.svg?style=svg)](https://circleci.com/gh/K-Eo/taringa-plus)
 
